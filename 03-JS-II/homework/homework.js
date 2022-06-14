@@ -209,6 +209,7 @@ function tieneTresDigitos(numero){
   return false;  
 }
 
+
 function doWhile(numero) {
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces
   //Retornar el valor final.
